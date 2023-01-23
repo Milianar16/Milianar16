@@ -11,7 +11,7 @@
 
   
    <div align="center">    
-   <img src="https://user-images.githubusercontent.com/99519903/207432268-fb0fcd1f-f347-45f7-a686-0da4a75c0369.png">
+   <img src="https://www.canva.com/design/DAFYhJ9ldqA/O6mZcu2rljjR21UnZhjeBQ/edit">
  </div>
  <div align="center">
    <br>
@@ -23,9 +23,8 @@
 <br>
 <div style="display: inline_block">
   <div align="center" >
-    <p width="100">🎓 Formada em adm / Transição de carreira; </p>                
-    <p width="100"> 📚 Finalizei o Bootcamp Java Full Stack de 4 meses da SoulCode Academy;</p>
-    <p width="100">💻 Em busca da minha primeira oportunidade como desenvolvedora; </p>                
+    <p width="100">🎓 Transição de carreira; </p>                
+    <p width="100"> 📚 Finalizei o Bootcamp Java Full Stack de 4 meses da SoulCode Academy;</p>              
   </div>
   
  <br/>
@@ -45,13 +44,7 @@
                            
 </div>    
 
-##
-<div align="center">
- <br>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milianar16&show_icons=true&theme=nightowl)
 
-</div>
 
 
 
