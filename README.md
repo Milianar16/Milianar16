@@ -1,6 +1,5 @@
 👋 👀
 ##  Hello! Welcome to my Github profile. My name is Miliana Rocha
-<hr>
 
 Tecnologias
 
@@ -18,7 +17,7 @@ Tecnologias
 </div>
 <hr>
 
-< div align="center">
+<div align="center">
 ![Snake animation](https://github.com/Milianar16/Milianar16/blob/output/github-contribution-grid-snake.svg)
 </div>
 
