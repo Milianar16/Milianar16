@@ -1,6 +1,8 @@
-👋 👀# Hello! Welcome to my Github profile.
-## My name is Miliana Rocha
+👋 👀
+##  Hello! Welcome to my Github profile. My name is Miliana Rocha
+<hr>
 
+Tecnologias
 
 <div align="center"> 
 <br>
