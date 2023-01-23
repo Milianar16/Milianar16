@@ -18,9 +18,6 @@
 
 ![Snake animation](https://github.com/Milianar16/Milianar16/blob/output/github-contribution-grid-snake.svg)
 
-
- 
-
 <div>
 <a href="https://github.com/Milianar16">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milianar16&layout=compact&langs_count=7&theme=dracula"/>
@@ -29,7 +26,7 @@
 
   
    <div align="center">    
-   <img src="https://www.canva.com/design/DAFYhJ9ldqA/O6mZcu2rljjR21UnZhjeBQ/edit">
+   <img src="">
  </div>
  <div align="center">
    <br>
@@ -48,7 +45,7 @@
  <br/>
 </div>
 
-##
+
    
 
 
