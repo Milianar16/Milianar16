@@ -1,4 +1,5 @@
-- 👀 Hi, I’m @Milianar16
+- 👀# 👋 Hello! Welcome to my Github profile.
+## My name is Miliana Rocha
 
 ![Snake animation](https://github.com/Milianar16/Milianar16/blob/output/github-contribution-grid-snake.svg)
 
