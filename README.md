@@ -1,8 +1,6 @@
 👋 👀# Hello! Welcome to my Github profile.
 ## My name is Miliana Rocha
 
-![Snake animation](https://github.com/Milianar16/Milianar16/blob/output/github-contribution-grid-snake.svg)
-
 
 <div align="center"> 
 <br>
@@ -15,7 +13,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50" />
                            
-</div> 
+</div>
+<hr>
+
+![Snake animation](https://github.com/Milianar16/Milianar16/blob/output/github-contribution-grid-snake.svg)
+
+
+ 
 
 <div>
 <a href="https://github.com/Milianar16">
