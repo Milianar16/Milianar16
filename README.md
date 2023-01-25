@@ -1,6 +1,9 @@
 👋 👀
 ##  Hello! Welcome to my Github profile. My name is Miliana Rocha
 
+
+<img src="https://img.freepik.com/vetores-gratis/garota-na-janela_1450-168.jpg?w=2000">
+
 Tecnologias
 
 <div align="center"> 
