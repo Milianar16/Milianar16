@@ -38,14 +38,6 @@ Tecnologias
  <br>
  </div>
 
-<br>
-<div style="display: inline_block">
-  <div align="center" >
-    <p width="100">🎓 Transição de carreira; </p>                
-    <p width="100"> 📚 Finalizei o Bootcamp Java Full Stack na SoulCode Academy;</p>              
-  </div>
-  
- <br/>
 </div>
 
 
